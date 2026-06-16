@@ -1,17 +1,22 @@
 /*font*/
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho');
+
+セレクタ {
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
 
 body{
 	background-color: #E8D6D7;
-	font-family: sans-serif;
 	text-align: center;
 	font-size: 1.25em;
 	padding: 50px;
-	font-family: 'Sacramento', cursive;
+	font-family: 'Sacramento', 'Sawarabi Mincho', cursive;
 }
 
 h1{
-	color: #333;
+	color: #D4E2E2;
+	font-size: 2em;
 }
 
 #history{
