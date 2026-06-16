@@ -10,7 +10,7 @@ body{
 	color: #444;
 }
 
-top-design{
+.top-design{
 	width: 100%;      /* 画面幅いっぱいに広げる */
     max-width: 600px; /* ただし最大でも600pxまでにする */
     height: auto;     /* 縦横比を保って自動調整 */
