@@ -48,6 +48,13 @@ input{
 }
 
 select{
+	color: #444;
+	border: none;
+	border-radius: 8px;
+}
+
+option{
+	color: #444;
 	border: none;
 	border-radius: 8px;
 }
