@@ -1,9 +1,13 @@
+/*font*/
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
 body{
 	background-color: #E8D6D7;
 	font-family: sans-serif;
 	text-align: center;
 	font-size: 1.25em;
 	padding: 50px;
+	font-family: 'Sacramento', cursive;
 }
 
 h1{
@@ -16,8 +20,7 @@ h1{
 	margin: 0 auto;/*全体を真ん中に配置する*/
 	list-style-type: none;
 	color: #666;
-	font-
-	
+		
 	background-color: #F5EDED;
 	padding: 20px;
 }
