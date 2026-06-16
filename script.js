@@ -41,5 +41,5 @@ function Calculator(){
 		const historyList=document.getElementById('history');
 		const newHistory=document.createElement('li');//新しいリスト項目(箱作り)
 		newHistory.innerText=resultText;//式と答えをリスト(箱)に入れる
-		hitoryList.prepend(newHistory);//上に最新の履歴を追加
+		his9toryList.prepend(newHistory);//上に最新の履歴を追加
 }
